@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+     android:orientation="vertical"
+    android:background="#fafafa"
+    >
+
+
+    <LinearLayout android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_marginTop="13dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginStart="20dp"
+            android:layout_height="32dp"
+            android:layout_width="32dp"
+android:src="@drawable/eye"
+            />
+
+        <LinearLayout android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+        <TextView
+        android:textStyle="normal"
+        android:textSize="20sp"
+            android:fontFamily="sans-serif-light"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="15dp"
+        android:layout_gravity="start"
+        android:textAlignment="center"
+        android:text="@string/Title"
+        android:textColor="@color/black"
+            android:id="@+id/scrollTitle"
+        android:textAppearance="@android:style/TextAppearance.Medium" />
+</LinearLayout>
+        </LinearLayout>
+
+    <TextView
+        android:fontFamily="sans-serif-light"
+        android:textColor="@color/black"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="20dp"
+        android:id="@+id/introductionParagraph"
+        android:lineSpacingExtra="10dp"
+    android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+     />
+
+
+
+    <LinearLayout android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="40dp"
+        >
+
+        <ImageView
+            android:id="@+id/taskeye"
+            android:layout_marginTop="13dp"
+    android:layout_marginStart="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_height="32dp"
+            android:layout_width="32dp"
+            android:src="@drawable/eye"
+            />
+
+        <LinearLayout android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <TextView
+                android:textStyle="normal"
+                android:textSize="20sp"
+                android:fontFamily="sans-serif-light"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="15dp"
+                android:layout_gravity="start"
+                android:textAlignment="center"
+                android:text="@string/Task"
+                android:textColor="@color/black"
+                android:id="@+id/problemStatementHeading"
+                android:textAppearance="@android:style/TextAppearance.Medium" />
+        </LinearLayout>
+    </LinearLayout>
+
+
+
+
+
+
+
+    <TextView
+        android:background="@drawable/layout_bg1"
+        android:fontFamily="sans-serif-light"
+        android:textColor="@color/black"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="20dp"
+
+
+        android:lineSpacingExtra="10dp"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:id="@+id/problemParagraph"
+
+        />
+
+    <LinearLayout android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="40dp"
+        >
+
+        <ImageView
+            android:id="@+id/teameye"
+
+            android:layout_marginTop="13dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginStart="20dp"
+            android:layout_height="32dp"
+            android:layout_width="32dp"
+            android:src="@drawable/eye"
+            />
+
+        <LinearLayout android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <TextView
+                android:textStyle="normal"
+                android:textSize="20sp"
+                android:fontFamily="sans-serif-light"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="15dp"
+                android:layout_gravity="start"
+                android:textAlignment="center"
+                android:text="@string/Team_Requirement"
+                android:textColor="@color/black"
+                android:id="@+id/TeamHeading"
+                android:textAppearance="@android:style/TextAppearance.Medium" />
+        </LinearLayout>
+    </LinearLayout>
+
+
+
+    <TextView
+        android:textColor="@color/black"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="20dp"
+
+
+        android:lineSpacingExtra="10dp"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:id="@+id/teamParagraph"
+        android:fontFamily="sans-serif-light"
+        />
+
+
+    <LinearLayout android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="40dp"
+        >
+
+        <ImageView
+            android:id="@+id/ruleseye"
+
+            android:layout_marginTop="13dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginStart="20dp"
+            android:layout_height="32dp"
+            android:layout_width="32dp"
+            android:src="@drawable/eye"
+            />
+
+        <LinearLayout android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <TextView
+                android:textStyle="normal"
+                android:textSize="20sp"
+                android:fontFamily="sans-serif-light"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="15dp"
+                android:layout_gravity="start"
+                android:textAlignment="center"
+                android:text="@string/Rules_and_Judging_Criteria"
+                android:textColor="@color/black"
+                android:id="@+id/rulesheading"
+                android:textAppearance="@android:style/TextAppearance.Medium" />
+        </LinearLayout>
+    </LinearLayout>
+
+
+
+    <TextView
+        android:fontFamily="sans-serif-light"
+        android:textColor="@color/black"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="20dp"
+
+
+        android:lineSpacingExtra="10dp"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:id="@+id/rules"
+        android:text=""
+        />
+
+
+
+    <LinearLayout android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="40dp"
+        >
+
+        <ImageView
+            android:layout_marginTop="13dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginStart="20dp"
+            android:layout_height="32dp"
+            android:layout_width="32dp"
+            android:src="@drawable/eye"
+            />
+
+        <LinearLayout android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <TextView
+                android:textStyle="normal"
+                android:textSize="20sp"
+                android:fontFamily="sans-serif-light"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="15dp"
+                android:layout_gravity="start"
+                android:textAlignment="center"
+                android:text="@string/coordinator_details"
+                android:textColor="@color/black"
+                android:id="@+id/Cordinatorheading"
+                android:textAppearance="@android:style/TextAppearance.Medium" />
+        </LinearLayout>
+    </LinearLayout>
+
+
+
+    <TextView
+        android:textColor="@color/black"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="20dp"
+        android:fontFamily="sans-serif-light"
+
+        android:lineSpacingExtra="10dp"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:id="@+id/cordinatordetails"
+        />
+
+
+
+
+
+
+    <Button
+        android:layout_marginTop="30dp"
+        android:layout_gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/Call_the_coordinator"
+
+        android:id="@+id/register" />
+
+</LinearLayout>

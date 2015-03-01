@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\bugs-pc\AndroidStudioProjects\MechTechMeetOfficial\app\libs\retrofit-1.9.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="C:\Users\bugs-pc\AndroidStudioProjects\MechTechMeetOfficial\app\build\intermediates\pre-dexed\debug\retrofit-1.9.0-30c0e205b248ba4b0a18bc39ffbf1b06e2135531.jar" />
+    </item>
+    <item
+        jar="C:\Users\bugs-pc\AndroidStudioProjects\MechTechMeetOfficial\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\bugs-pc\AndroidStudioProjects\MechTechMeetOfficial\app\build\intermediates\pre-dexed\debug\classes-2816b7aa1d3a9d397100effe8c92666079bd51ef.jar" />
+    </item>
+    <item
+        jar="C:\Users\bugs-pc\AndroidStudioProjects\MechTechMeetOfficial\app\libs\picasso-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="C:\Users\bugs-pc\AndroidStudioProjects\MechTechMeetOfficial\app\build\intermediates\pre-dexed\debug\picasso-2.4.0-b96f6141b340a087068664eeca264da1722c766b.jar" />
+    </item>
+    <item
+        jar="C:\Users\bugs-pc\AndroidStudioProjects\MechTechMeetOfficial\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\bugs-pc\AndroidStudioProjects\MechTechMeetOfficial\app\build\intermediates\pre-dexed\debug\classes-053e572f45603b5150b9d25d31cd37ed795c2299.jar" />
+    </item>
+    <item
+        jar="C:\Users\bugs-pc\AndroidStudioProjects\MechTechMeetOfficial\app\libs\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="973e832af433b44c3ed11c426f2f390b29f3f3f8">
+        <dex dex="C:\Users\bugs-pc\AndroidStudioProjects\MechTechMeetOfficial\app\build\intermediates\pre-dexed\debug\gson-2.2.4-2996d1624cdaf03ee8fc57d3b638c397deb5d8f6.jar" />
+    </item>
+    <item
+        jar="C:\Users\bugs-pc\AndroidStudioProjects\MechTechMeetOfficial\app\build\intermediates\exploded-aar\com.github.manuelpeinado.fadingactionbar\fadingactionbar-abc\3.1.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ada4f8fc2f9cf0fb3c66fbe36d86f5c370684ef7">
+        <dex dex="C:\Users\bugs-pc\AndroidStudioProjects\MechTechMeetOfficial\app\build\intermediates\pre-dexed\debug\classes-3a9d8e28ba4fe6637a5e52fc5fe5cb5a0a234f1d.jar" />
+    </item>
+    <item
+        jar="C:\Users\bugs-pc\AndroidStudioProjects\MechTechMeetOfficial\app\build\intermediates\exploded-aar\com.github.manuelpeinado.fadingactionbar\fadingactionbar\3.1.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1db28e119b406a5fe367b63fb1be083d5dfe298a">
+        <dex dex="C:\Users\bugs-pc\AndroidStudioProjects\MechTechMeetOfficial\app\build\intermediates\pre-dexed\debug\classes-5c7ff9c1db52b48a694f2feb172d31c0688de9b3.jar" />
+    </item>
+    <item
+        jar="C:\Users\bugs-pc\AndroidStudioProjects\MechTechMeetOfficial\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\bugs-pc\AndroidStudioProjects\MechTechMeetOfficial\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-1f6a15b5ae1cc20bddcfea270f0b76197b8331f1.jar" />
+    </item>
+    <item
+        jar="C:\Users\bugs-pc\AndroidStudioProjects\MechTechMeetOfficial\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="C:\Users\bugs-pc\AndroidStudioProjects\MechTechMeetOfficial\app\build\intermediates\pre-dexed\debug\classes-59b2710874777819251b3d764e4abc6cb86f6db3.jar" />
+    </item>
+    <item
+        jar="C:\Users\bugs-pc\AndroidStudioProjects\MechTechMeetOfficial\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="C:\Users\bugs-pc\AndroidStudioProjects\MechTechMeetOfficial\app\build\intermediates\pre-dexed\debug\classes-12a8fa97de5c0c502afb55fea53416a90d718785.jar" />
+    </item>
+    <item
+        jar="E:\softwares\android studio\adt-bundle-windows-x86_64-20140702\adt-bundle-windows-x86_64-20140702\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\bugs-pc\AndroidStudioProjects\MechTechMeetOfficial\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-8f45848b5bf683ec6b7f62084116818e456a3f44.jar" />
+    </item>
+
+</items>

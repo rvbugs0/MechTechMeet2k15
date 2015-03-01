@@ -1,0 +1,13 @@
+<FrameLayout
+    android:id="@+id/container1"
+    android:layout_width="match_parent"
+    android:background="#eeeeee"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <ProgressBar android:layout_height="50dp"
+        android:layout_width="50dp"
+        android:layout_gravity="center"
+        android:id="@+id/progressBar"
+        />
+
+</FrameLayout>

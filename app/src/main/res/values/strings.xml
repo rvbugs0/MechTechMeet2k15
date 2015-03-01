@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mech Tech Meet</string>
+    <string name="Send_Post_Card">Send Post Card</string>
+    <string name="Message">Message</string>
+    <string name="Email">Email</string>
+    <string name="College">College</string>
+
+    <string name="facebookcom">facebook.com/mtmuec</string>
+    <string name="twittercom">twitter.com/mechtechmeet</string>
+    <string name="follow_us_on_twitter">follow us on twitter</string>
+    <string name="follow_us_on_facebook">follow us on facebook</string>
+    <string name="conerror">Connection error !</string>
+    <string name="github">>   follow me on GitHub</string>
+    <string name="twitter">>   follow me on twitter</string>
+    <string name="projects">>   for more projects</string>
+    <string name="Ravi_Ailani">Ravi Ailani</string>
+    <string name="Your_Name">Your Name</string>
+
+    <string name="title_section1">Home</string>
+    <string name="title_section2">Competitions</string>
+    <string name="title_section3">Workshops</string>
+    <string name="title_section4">Fun and Games</string>
+    <string name="title_section5">Initiative</string>
+    <string name="title_section6">Partners</string>
+    <string name="title_section7">Special Events</string>
+    <string name="title_section8">Developer</string>
+    <string name="title_section9">Send us a post card</string>
+
+
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_facebook">follow us on facebook</string>
+    <string name="action_twitter">follow us on twitter</string>
+    <string name="action_query">have any queries?</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="action_licence">view open-source licences</string>
+
+    <string name="Mech_Tech_Meet">Mech Tech Meet 2k15</string>
+    <string name="coordinator_details">Coordinator Details</string>
+    <string name="Rules_and_Judging_Criteria">Rules / Specifications</string>
+    <string name="Team_Requirement">Team Requirement</string>
+    <string name="Task">Task</string>
+    <string name="Title">Title</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Call_the_coordinator">Call the coordinator</string>
+
+    <color name="my_action_bar_color">#3F51B5</color>
+
+    <string name="Create_your_own_card">Create your own card</string>
+    <string name="title_activity_splash">Splash</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_registration">Open source licences</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_gallery">GalleryActivity</string>
+    <string name="title_activity_create_post_card">Create Post Card</string>
+
+</resources>

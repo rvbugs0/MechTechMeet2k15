@@ -1,0 +1,10 @@
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/action_settings" android:title="@string/action_facebook"
+        android:orderInCategory="100" android:showAsAction="always"
+        tools:ignore="AppCompatResource" />
+    <item android:id="@+id/action_licences" android:title="@string/action_licence"
+        android:orderInCategory="100" android:showAsAction="always"
+        tools:ignore="AppCompatResource" />
+</menu>

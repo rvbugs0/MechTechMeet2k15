@@ -1,0 +1,22 @@
+<resources>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="blue_action_bar">#2196f3</color>
+    <color name="blue_status_bar">#0288d1</color>
+    <color name="white">#FFFFFF</color>
+    <color name="material_wala_blue">#5c5cb3</color>
+    <color name="material_wala_green">#128807</color>
+    <color name="material_wala_darkblue">#5c5cb3</color>
+    <color name="material_wala_orange">#ef6c00</color>
+    <color name="material_wala_dark_purple">#455a64</color>
+    <color name="material_wala_yellow">#FFEB3B</color>
+    <color name="black">#000</color>
+    <color name="grey">#CCC</color>
+    <color name="postcolor">#a0dcff</color>
+    <color name="material_wala_deep_blue">#3F51B5</color>
+    <color name="homebigcard">#009688</color>
+    <color name="homebigcard_filter">#00453f</color>
+
+
+    <color name="material_wala_red">@android:color/holo_red_light</color>
+</resources>

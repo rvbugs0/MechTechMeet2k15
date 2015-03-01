@@ -1,0 +1,28 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+
+    tools:context=".MainActivity$PlaceholderFragment"
+    android:orientation="vertical">
+
+
+
+    <ListView
+        android:layout_height="0dip"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:id="@android:id/list"
+        android:clickable="true"
+        android:divider="@null"
+        />
+
+
+    <Button   android:layout_height="wrap_content"
+        android:layout_weight="0"
+        android:textColor="@color/white"
+        android:background="@color/material_wala_red"
+        android:id="@+id/sendPostButton"
+        android:text="@string/Create_your_own_card"
+        android:layout_width="match_parent"/>
+</LinearLayout>
