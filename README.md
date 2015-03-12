@@ -5,3 +5,6 @@ FadingActionBar by Manuel Peinad, and gson by Google
 
 <br/><br/>
 Improvements need to be done in the notifications part
+
+#Available on play store
+https://play.google.com/store/apps/details?id=com.mech.tech.meet
